@@ -1,47 +1,8 @@
-// import static org.junit.jupiter.api.Assertions.assertEquals;
+Razan Alshatti
 
-// import org.junit.jupiter.api.Test;
+Computer engineer
+photography
+some kind of sports
+skiing
 
-class Main {
-  public static void main(String[] args) {
-
-    String FirstName = "Razan";
-    String LastName = "Alshatti";
-    int age = 23;
-    double amount = 178;
-
-    System.out.println(" " + FirstName + "\n" + LastName + "\n" + age + " \n " + amount);
-    boolean isMarried = false;
-    double NewAmount = 20;
-    String deposit = "Deposit";
-    String withdraw = "Withdraw";
-    
-    System.out.println("The amount is " + NewAmount + " KD \n would you like to " + deposit + " or " + withdraw + " the amount ?");
-    
-    int amnt = 5;
-    System.out.println( + amnt + " plus " + amnt + " makes " + (amnt + amnt));
-    String fullName = "Razan Alshatti";
-    System.out.println("My full name is " + fullName);
-    int len = LastName.length();
-    System.out.println("My last name length is " + len);
-    System.out.println(LastName.startsWith("A"));
-    System.out.println(LastName.endsWith("i"));
-
-    double amountKD = 86;
-    double amountUSD = amountKD * 3.25;
-    System.out.println(amountKD + " KD = " + amountUSD + " USD ");
-    System.out.println(amountUSD + " USD = " + amountKD + " KD ");
-
-      double amountEUR = amountKD * 2.97;
-    System.out.println(amountKD + " KD = " + amountEUR + " EUR ");
-    System.out.println(amountEUR + " EUR = " + amountKD + " KD ");
-    
-    
-
-      }
-}
-
-// @Test
-// void addition() {
-// assertEquals(2, 1 + 1);
-// }
+2000
